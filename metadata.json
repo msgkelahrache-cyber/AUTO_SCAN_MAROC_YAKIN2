@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "AutoScan Morocco V2 - Stock Edition",
+  "description": ""
+}
